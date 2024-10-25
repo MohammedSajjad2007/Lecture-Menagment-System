@@ -1,1 +1,1 @@
-# Lecture-Menagment-System
+Electricity bill calculator
